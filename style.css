@@ -9,8 +9,8 @@
 }
 body {
     margin-top: 100px;
-    margin-left: 130px;
-    margin-right: 135px;
+    margin-left: 125px;
+    margin-right: 140px;
     margin-bottom: 200px;
     background: radial-gradient(circle at 50% 50%, #193e06 0%, #000000 100%);
  }
@@ -49,7 +49,7 @@ nav {
 p {
   color: rgba(98, 209, 64, 0.748);
   font-family: monospace;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 1.25;
   margin-bottom: 22px;
 }
@@ -57,6 +57,6 @@ p {
 li {
   color: rgba(98, 209, 64, 0.748);
   font-family: monospace;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: bold;
 }
