@@ -1,0 +1,55 @@
+@font-face {
+  font-family: myFont;
+  src: url(bloodcrowsc.ttf);
+}
+
+@font-face {
+  font-family: mySubFont;
+  src: url(MISFITS_.TTF);
+}
+body {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 130px;
+    margin-bottom: 200px;
+    background: radial-gradient(circle at 50% 50%, #193e06 0%, #000000 100%);
+ }
+
+main {
+    padding: 20px;
+
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #47bf0bc3;
+    font-family: myFont;
+    letter-spacing: 5px;
+    text-align: left;
+    font-size: 75px;
+    line-height: 0.5;
+}
+
+h2 {
+    color: #47bf0bc3;
+    font-family: myFont;
+    letter-spacing: 5px;
+    text-align: left;
+    font-size: 35px;
+    line-height: 2;
+}
+nav {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    column-gap: 25px;
+}
+
+p {
+  color: rgba(98, 209, 64, 0.748);
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.25;
+  margin-bottom: 22px;
+}
