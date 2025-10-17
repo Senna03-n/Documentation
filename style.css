@@ -53,3 +53,10 @@ p {
   line-height: 1.25;
   margin-bottom: 22px;
 }
+
+li {
+  color: rgba(98, 209, 64, 0.748);
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: bold;
+}
